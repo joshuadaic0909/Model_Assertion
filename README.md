@@ -24,3 +24,5 @@ Part A:
 At this current stage, we aim to develop this framework using Financial Trading ML strategy as our input. This is because Trading strategy is the most straightforward in terms of validating predictive power and model drift/decay. However, we aim to build this framework to a sophisticated level where all industry and use cases can optimize and help make informed decision for everyone. 
 
 
+### Licensing
+MIT License
